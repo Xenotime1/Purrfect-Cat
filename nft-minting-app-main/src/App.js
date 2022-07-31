@@ -305,13 +305,9 @@ function App() {
                     </s.TextDescription>
                     <s.SpacerSmall />
                     <StyledButton
-                      onClick={(e) => {
-                        e.preventDefault();
-                        dispatch(connect());
-                        getData();
-                      }}
+                      // Put button here and change minting soon
                     >
-                      CONNECT
+                      MINTING SOON!!!
                     </StyledButton>
                     {blockchain.errorMsg !== "" ? (
                       <>
