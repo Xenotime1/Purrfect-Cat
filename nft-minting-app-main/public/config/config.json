@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x66868B290614759D1078115c7e2Fa58c691de52a",
-  "SCAN_LINK": "https://www.smartscan.cash/address/0x66868B290614759D1078115c7e2Fa58c691de52a",
+  "CONTRACT_ADDRESS": "0xb563F378e8EdcBEFC31fd2D44fAAA2539065107f",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0xb563F378e8EdcBEFC31fd2D44fAAA2539065107f",
   "NETWORK": {
     "NAME": "Smart Bitcoin Cash",
     "SYMBOL": "BCH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Oasis",
-  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x66868B290614759D1078115c7e2Fa58c691de52a",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0xb563F378e8EdcBEFC31fd2D44fAAA2539065107f",
   "SHOW_BACKGROUND": true
 }
